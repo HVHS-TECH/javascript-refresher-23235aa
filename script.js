@@ -1,1 +1,3 @@
-alert("Congratulations!\nYou got the script running.")
+function start() {
+    alert("Congratulations!\nYou got the script running.")
+}
